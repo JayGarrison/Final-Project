@@ -1,0 +1,11 @@
+Model Information:
+* title:	fnaf 4 ps1 models
+* source:	https://sketchfab.com/3d-models/fnaf-4-ps1-models-7226fa3966934c2ab7201c1fcd1a04b6
+* author:	Justagus (https://sketchfab.com/Justagus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "fnaf 4 ps1 models" (https://sketchfab.com/3d-models/fnaf-4-ps1-models-7226fa3966934c2ab7201c1fcd1a04b6) by Justagus (https://sketchfab.com/Justagus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
